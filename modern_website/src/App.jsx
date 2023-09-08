@@ -1,5 +1,19 @@
 import styles from './style';
 
+
+import Billing from './components/Billing';
+import Business from './components/Business';
+import  Button from './components/Button';
+import  CardDealfrom './components/CardDeal';
+import Clients from './components/Clients';
+import CTA from './components/CTA';
+import FeedbackCard from './components/FeedbackCard';
+import  Footer from './components/Footer';
+import GetStarted from './components/';
+import  Hero from './components/Hero';
+import Navbar  from './components/Navbar';
+import  from './components/';
+
 const App = () =>   (
     <div className="bg-primary w-full overflow-hidden">
       <div className={`${styles.paddingX} ${styles.flexCenter}`}>
